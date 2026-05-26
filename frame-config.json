@@ -1,0 +1,9 @@
+{
+  "frameSpecVersion": "2.0.0",
+  "supportedNetworks": ["base-mainnet", "optimism-mainnet"],
+  "canvasDimensions": {
+    "width": 600,
+    "height": 314,
+    "aspectRatio": "1.91:1"
+  }
+}

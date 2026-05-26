@@ -1,0 +1,12 @@
+{
+  "name": "farcaster-frame-engine",
+  "version": "2.0.0",
+  "description": "Professional Farcaster Frames v2 interactive engine",
+  "main": "frameServer.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ethers": "^6.13.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
